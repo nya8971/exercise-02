@@ -1,4 +1,4 @@
-/* Add @import Google Font here */
+@import url('https://fonts.googleapis.com/css?family=Alegreya&display=swap');
 body {
   color: #222;
   font-family: "Andale Mono", sans-serif;
@@ -15,7 +15,7 @@ a:hover {
 }
 
 h1, h2 {
-    /* Add font family here */
+    font-family: 'Alegreya', serif;
 }
 
 img {
